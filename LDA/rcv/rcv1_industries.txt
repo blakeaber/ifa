@@ -1,0 +1,365 @@
+pp: None     pu: None     cp: Root       cu: Root       cd: No Description
+pp: Root     pu: Root     cp: I0         cu: I0         cd: AGRICULTURE, FORESTRY AND FISHING
+pp: I0       pu: I0       cp: I01000     cu: I01        cd: AGRICULTURE AND HORTICULTURE
+pp: I01000   pu: I01      cp: I01001     cu: I01001     cd: AGRICULTURE
+pp: I01001   pu: I01001   cp: I0100105   cu: I0100105   cd: CATTLE FARMING
+pp: I01001   pu: I01001   cp: I0100107   cu: I0100107   cd: EGG PRODUCTION
+pp: I01001   pu: I01001   cp: I0100119   cu: I0100119   cd: PIG FARMING
+pp: I01001   pu: I01001   cp: I0100121   cu: I0100121   cd: POULTRY FARMING
+pp: I01001   pu: I01001   cp: I0100124   cu: I0100124   cd: SHEEP FARMING
+pp: I01001   pu: I01001   cp: I0100128   cu: I0100128   cd: SUGAR BEET GROWING
+pp: I01001   pu: I01001   cp: I0100132   cu: I0100132   cd: GRAIN, CEREALS FARMING
+pp: I01001   pu: I01001   cp: I0100136   cu: I0100136   cd: SUGAR CANE GROWING
+pp: I01001   pu: I01001   cp: I0100137   cu: I0100137   cd: COFFEE GROWING
+pp: I01001   pu: I01001   cp: I0100138   cu: I0100138   cd: COTTON GROWING
+pp: I01001   pu: I01001   cp: I0100141   cu: I0100141   cd: RUBBER GROWING
+pp: I01001   pu: I01001   cp: I0100142   cu: I0100142   cd: TEA GROWING
+pp: I01001   pu: I01001   cp: I0100144   cu: I0100144   cd: COCOA GROWING
+pp: I01001   pu: I01001   cp: I0100145   cu: I0100145   cd: TOBACCO GROWING
+pp: I01000   pu: I01      cp: I01002     cu: I01002     cd: HORTICULTURE
+pp: I01002   pu: I01002   cp: I0100206   cu: I0100206   cd: FRUIT GROWING
+pp: I01002   pu: I01002   cp: I0100216   cu: I0100216   cd: VEGETABLE GROWING
+pp: I01002   pu: I01002   cp: I0100223   cu: I0100223   cd: SOYA GROWING
+pp: I0       pu: I0       cp: I02000     cu: I02        cd: FORESTRY
+pp: I0       pu: I0       cp: I03000     cu: I03        cd: FISHING
+pp: Root     pu: Root     cp: I1         cu: I1         cd: ENERGY AND WATER SUPPLY
+pp: I1       pu: I1       cp: I11000     cu: I11        cd: COAL MINING
+pp: I1       pu: I1       cp: I12000     cu: I12        cd: COKE PRODUCTION
+pp: I1       pu: I1       cp: I13000     cu: I13        cd: PETROLEUM AND NATURAL GAS
+pp: I13000   pu: I13      cp: I1300002   cu: I1300002   cd: CRUDE OIL EXPLORATION
+pp: I13000   pu: I13      cp: I1300003   cu: I1300003   cd: CRUDE OIL EXTRACTION
+pp: I13000   pu: I13      cp: I1300013   cu: I1300013   cd: NATURAL GAS EXPLORATION
+pp: I13000   pu: I13      cp: I1300014   cu: I1300014   cd: NATURAL GAS EXTRACTION
+pp: I1       pu: I1       cp: I14000     cu: I14        cd: PETROLEUM REFINING AND PROCESSING
+pp: I1       pu: I1       cp: I15000     cu: I15        cd: NUCLEAR FUEL
+pp: I1       pu: I1       cp: I16000     cu: I16        cd: ELECTRICITY, GAS UTILITIES
+pp: I16000   pu: I16      cp: I16100     cu: I161       cd: ELECTRICITY PRODUCTION
+pp: I16100   pu: I161     cp: I1610107   cu: I1610107   cd: HYDRO ELECTRIC POWER
+pp: I16100   pu: I161     cp: I1610109   cu: I1610109   cd: NUCLEAR POWER
+pp: I16000   pu: I16      cp: I16200     cu: I162       cd: GAS PRODUCTION
+pp: I16000   pu: I16      cp: I16300     cu: I163       cd: ALTERNATIVE ENERGY PRODUCTION
+pp: I1       pu: I1       cp: I17000     cu: I17        cd: WATER SUPPLY
+pp: Root     pu: Root     cp: I2         cu: I2         cd: METALS AND MINERALS
+pp: I2       pu: I2       cp: I21000     cu: I21        cd: METAL ORE EXTRACTION
+pp: I2       pu: I2       cp: I22000     cu: I22        cd: METAL MANUFACTURING
+pp: I22000   pu: I22      cp: I22100     cu: I221       cd: IRON AND STEEL
+pp: I22000   pu: I22      cp: I22200     cu: I222       cd: STEEL TUBES
+pp: I22000   pu: I22      cp: I22300     cu: I223       cd: STEEL COLD ROLLING AND FORMING
+pp: I22000   pu: I22      cp: I22400     cu: I224       cd: NON FERROUS METALS
+pp: I22400   pu: I224     cp: I22450     cu: I2245      cd: ALUMINIUM AND ALUMINIUM ALLOYS
+pp: I22400   pu: I224     cp: I22460     cu: I2246      cd: COPPER AND COPPER ALLOYS
+pp: I22400   pu: I224     cp: I22470     cu: I2247      cd: OTHER NON FERROUS METALS
+pp: I22470   pu: I2247    cp: I22471     cu: I22471     cd: BASE NON FERROUS METALS
+pp: I22470   pu: I2247    cp: I22472     cu: I22472     cd: PRECIOUS METALS
+pp: I2       pu: I2       cp: I23000     cu: I23        cd: EXTRACTION OF MINERALS
+pp: I2       pu: I2       cp: I24000     cu: I24        cd: MINERAL PRODUCTS
+pp: I24000   pu: I24      cp: I24100     cu: I241       cd: STRUCTURAL CLAY PRODUCTS
+pp: I24000   pu: I24      cp: I24200     cu: I242       cd: CEMENT, LIME AND PLASTER
+pp: I24000   pu: I24      cp: I24300     cu: I243       cd: BUILDING PRODUCTS
+pp: I24000   pu: I24      cp: I24400     cu: I244       cd: ASBESTOS PRODUCTS
+pp: I24000   pu: I24      cp: I24500     cu: I245       cd: STONE AND SLATE PRODUCTS
+pp: I24000   pu: I24      cp: I24600     cu: I246       cd: ABRASIVE PRODUCTS
+pp: I24000   pu: I24      cp: I24700     cu: I247       cd: GLASS AND GLASS PRODUCTS
+pp: I24700   pu: I247     cp: I24794     cu: I24794     cd: GLASS FIBRE
+pp: I24000   pu: I24      cp: I24800     cu: I248       cd: CERAMIC PRODUCTS
+pp: I2       pu: I2       cp: I25000     cu: I25        cd: CHEMICAL INDUSTRY
+pp: I25000   pu: I25      cp: I25100     cu: I251       cd: BASIC INDUSTRIAL CHEMICALS
+pp: I25100   pu: I251     cp: I25110     cu: I2511      cd: INORGANIC CHEMICALS
+pp: I25100   pu: I251     cp: I25120     cu: I2512      cd: ORGANIC CHEMICALS INCL. PETROCHEMICALS
+pp: I25100   pu: I251     cp: I25130     cu: I2513      cd: FERTILISERS
+pp: I25100   pu: I251     cp: I25140     cu: I2514      cd: SYNTHETIC RESINS, POLYMERS AND PLASTICS
+pp: I25100   pu: I251     cp: I25160     cu: I2516      cd: DYESTUFFS AND PIGMENTS
+pp: I25000   pu: I25      cp: I25510     cu: I2551      cd: PAINTS
+pp: I25000   pu: I25      cp: I25520     cu: I2552      cd: PRINTING INKS
+pp: I25000   pu: I25      cp: I25620     cu: I2562      cd: ADHESIVES
+pp: I25000   pu: I25      cp: I25650     cu: I2565      cd: EXPLOSIVES
+pp: I25000   pu: I25      cp: I25670     cu: I2567      cd: INDUSTRIAL CHEMICALS INCL. GASES
+pp: I25000   pu: I25      cp: I25680     cu: I2568      cd: PESTICIDES
+pp: I25000   pu: I25      cp: I25700     cu: I257       cd: PHARMACEUTICALS
+pp: I25000   pu: I25      cp: I25800     cu: I258       cd: SOAPS AND COSMETICS
+pp: I2       pu: I2       cp: I26000     cu: I26        cd: SYNTHETIC FIBRES INCL. POLYESTER
+pp: Root     pu: Root     cp: I3         cu: I3         cd: METAL GOODS AND ENGINEERING
+pp: I3       pu: I3       cp: I31000     cu: I31        cd: METAL GOODS INCL. NUTS AND BOLTS
+pp: I3       pu: I3       cp: I32000     cu: I32        cd: MECHANICAL ENGINEERING
+pp: I32000   pu: I32      cp: I32040     cu: I3204      cd: INDUSTRIAL PLANT AND STEELWORK
+pp: I32000   pu: I32      cp: I32050     cu: I3205      cd: BOILERS AND PROCESS PLANT FABRICATIONS
+pp: I32000   pu: I32      cp: I32100     cu: I321       cd: AGRICULTURAL MACHINERY
+pp: I32000   pu: I32      cp: I32200     cu: I322       cd: MACHINE TOOLS
+pp: I32000   pu: I32      cp: I32300     cu: I323       cd: TEXTILE MACHINERY
+pp: I32000   pu: I32      cp: I32440     cu: I3244      cd: FOOD PROCESSING MACHINERY
+pp: I32000   pu: I32      cp: I32450     cu: I3245      cd: CHEMICAL INDUSTRY MACHINERY
+pp: I32000   pu: I32      cp: I32510     cu: I3251      cd: MINING MACHINERY
+pp: I32000   pu: I32      cp: I32540     cu: I3254      cd: CONSTRUCTION MACHINERY
+pp: I32000   pu: I32      cp: I32550     cu: I3255      cd: LIFTING AND HANDLING EQUIPMENT
+pp: I32000   pu: I32      cp: I32600     cu: I326       cd: POWER TRANSMISSION EQUIPMENT
+pp: I32000   pu: I32      cp: I32751     cu: I32751     cd: WOODWORKING MACHINERY
+pp: I32000   pu: I32      cp: I32752     cu: I32752     cd: RUBBER AND PLASTICS WORKING MACHINERY
+pp: I32000   pu: I32      cp: I32753     cu: I32753     cd: LEATHERWORKING AND FOOTWEAR MACHINERY
+pp: I32000   pu: I32      cp: I32754     cu: I32754     cd: PAPER MAKING MACHINERY
+pp: I32000   pu: I32      cp: I32755     cu: I32755     cd: GLASS AND CERAMIC WORKING MACHINERY
+pp: I32000   pu: I32      cp: I32810     cu: I3281      cd: INDUSTRIAL AND MARINE ENGINES
+pp: I32000   pu: I32      cp: I32830     cu: I3283      cd: COMPRESSORS, HYDRAULIC, PNEUMATIC
+pp: I32000   pu: I32      cp: I32840     cu: I3284      cd: REFRIGERATING, HEATING, AIR CONDITIONING
+pp: I32000   pu: I32      cp: I32851     cu: I32851     cd: WEIGHING MACHINERY
+pp: I32000   pu: I32      cp: I32852     cu: I32852     cd: PORTABLE POWER TOOLS
+pp: I32000   pu: I32      cp: I32870     cu: I3287      cd: PUMPS
+pp: I32000   pu: I32      cp: I32900     cu: I329       cd: ARMS MANUFACTURING
+pp: I3       pu: I3       cp: I33010     cu: I3301      cd: ELECTRONIC OFFICE EQUIPMENT
+pp: I3       pu: I3       cp: I33020     cu: I3302      cd: COMPUTER SYSTEMS AND SOFTWARE
+pp: I33020   pu: I3302    cp: I3302003   cu: I3302003   cd: COMPUTERS AND PERSONAL COMPUTERS
+pp: I33020   pu: I3302    cp: I3302004   cu: I3302004   cd: COMPUTER PERIPHERALS INCL. MODEMS
+pp: I33020   pu: I3302    cp: I3302013   cu: I3302013   cd: COMPUTER PRINTERS
+pp: I33020   pu: I3302    cp: I3302015   cu: I3302015   cd: OPTICAL CHARACTER READERS
+pp: I33020   pu: I3302    cp: I3302017   cu: I3302017   cd: COMPUTER TERMINALS, WORK STATIONS
+pp: I33020   pu: I3302    cp: I3302018   cu: I3302018   cd: WORD PROCESSORS
+pp: I33020   pu: I3302    cp: I3302019   cu: I3302019   cd: SECONDARY MEMORY STORES
+pp: I33020   pu: I3302    cp: I3302020   cu: I3302020   cd: SYSTEMS SOFTWARE
+pp: I33020   pu: I3302    cp: I3302021   cu: I3302021   cd: APPLICATIONS SOFTWARE
+pp: I33020   pu: I3302    cp: I3302022   cu: I3302022   cd: KNOWLEDGE BASED SYSTEMS
+pp: I3       pu: I3       cp: I33030     cu: I3303      cd: DATACOMMUNICATIONS AND NETWORKING
+pp: I3       pu: I3       cp: I34000     cu: I34        cd: ELECTRICAL AND ELECTRONIC ENGINEERING
+pp: I34000   pu: I34      cp: I34100     cu: I341       cd: WIRES AND CABLES
+pp: I34000   pu: I34      cp: I34200     cu: I342       cd: BASIC ELECTRICAL EQUIPMENT
+pp: I34000   pu: I34      cp: I34320     cu: I3432      cd: BATTERIES
+pp: I34000   pu: I34      cp: I34330     cu: I3433      cd: ALARMS AND SIGNALLING EQUIPMENT
+pp: I34000   pu: I34      cp: I34340     cu: I3434      cd: ELECTRICAL EQUIPMENT FOR VEHICLES
+pp: I34000   pu: I34      cp: I34350     cu: I3435      cd: INDUSTRIAL ELECTRICAL EQUIPMENT
+pp: I34000   pu: I34      cp: I34400     cu: I344       cd: TELECOMMUNICATIONS EQUIPMENT
+pp: I34400   pu: I344     cp: I34410     cu: I3441      cd: TELEPHONE EQUIPMENT
+pp: I34400   pu: I344     cp: I34420     cu: I3442      cd: ELECTRICAL INSTUMENTS, CONTROL SYSTEMS
+pp: I34400   pu: I344     cp: I34430     cu: I3443      cd: RADAR AND ELECTRONIC EQUIPMENT
+pp: I34400   pu: I344     cp: I34440     cu: I3444      cd: PASSIVE COMPONENTS, PRINTED CIRCUITS
+pp: I34000   pu: I34      cp: I34520     cu: I3452      cd: RECORDS, TAPES AND DISCS
+pp: I34000   pu: I34      cp: I34531     cu: I34531     cd: ELECTRONIC ACTIVE COMPONENTS
+pp: I34000   pu: I34      cp: I34532     cu: I34532     cd: COMPONENTS FOR ELECTRONIC GOODS
+pp: I34000   pu: I34      cp: I34540     cu: I3454      cd: ELECTRONIC CONSUMER GOODS
+pp: I34000   pu: I34      cp: I34600     cu: I346       cd: ELECTRICAL APPLIANCES
+pp: I34000   pu: I34      cp: I34700     cu: I347       cd: ELECTRIC LIGHTING EQUIPMENT
+pp: I3       pu: I3       cp: I35000     cu: I35        cd: MOTOR VEHICLES AND PARTS
+pp: I35000   pu: I35      cp: I35101     cu: I35101     cd: PASSENGER CARS
+pp: I35000   pu: I35      cp: I35102     cu: I35102     cd: COMMERCIAL VEHICLES
+pp: I35000   pu: I35      cp: I35200     cu: I352       cd: VEHICLE BODIES AND TRAILERS
+pp: I35000   pu: I35      cp: I35300     cu: I353       cd: VEHICLE PARTS
+pp: I3       pu: I3       cp: I36101     cu: I36101     cd: SHIPBUILDING
+pp: I3       pu: I3       cp: I36102     cu: I36102     cd: PLEASURE BOATS AND YACHTS
+pp: I3       pu: I3       cp: I36103     cu: I36103     cd: SHIPBREAKING
+pp: I3       pu: I3       cp: I36200     cu: I362       cd: RAILWAY EQUIPMENT
+pp: I3       pu: I3       cp: I36300     cu: I363       cd: CYCLES AND MOTOR CYCLES
+pp: I3       pu: I3       cp: I36400     cu: I364       cd: AEROSPACE
+pp: I36400   pu: I364     cp: I3640002   cu: I3640002   cd: AERO-ENGINES
+pp: I36400   pu: I364     cp: I3640007   cu: I3640007   cd: AIRCRAFT COMPONENTS, NOT ELECTRICAL
+pp: I36400   pu: I364     cp: I3640010   cu: I3640010   cd: CIVIL AIRCRAFT MANUFACTURING
+pp: I36400   pu: I364     cp: I3640026   cu: I3640026   cd: GUIDED WEAPONS
+pp: I36400   pu: I364     cp: I3640029   cu: I3640029   cd: CIVIL HELICOPTER MANUFACTURING
+pp: I36400   pu: I364     cp: I3640030   cu: I3640030   cd: HOVERCRAFT MANUFACTURING
+pp: I36400   pu: I364     cp: I3640045   cu: I3640045   cd: SATELLITE MANUFACTURING
+pp: I36400   pu: I364     cp: I3640046   cu: I3640046   cd: SPACECRAFT MANUFACTURING
+pp: I36400   pu: I364     cp: I3640047   cu: I3640047   cd: MILITARY AEROSPACE EQUIPMENT
+pp: I36400   pu: I364     cp: I3640048   cu: I3640048   cd: AIRCRAFT MAINTENANCE
+pp: I3       pu: I3       cp: I37000     cu: I37        cd: INSTRUMENT ENGINEERING
+pp: I37000   pu: I37      cp: I37100     cu: I371       cd: MEASURING AND PRECISION INSTRUMENTS
+pp: I37000   pu: I37      cp: I37200     cu: I372       cd: MEDICAL EQUIPMENT
+pp: I37000   pu: I37      cp: I37300     cu: I373       cd: OPTICAL EQUIPMENT
+pp: I37300   pu: I373     cp: I37330     cu: I3733      cd: PHOTOGRAPHIC EQUIPMENT
+pp: I37000   pu: I37      cp: I37400     cu: I374       cd: TIMEKEEPING EQUIPMENT
+pp: Root     pu: Root     cp: I4         cu: I4         cd: PROCESSING INDUSTRIES
+pp: I4       pu: I4       cp: I41000     cu: I41        cd: FOOD, DRINK AND TOBACCO PROCESSING
+pp: I41000   pu: I41      cp: I41100     cu: I411       cd: OILS AND FATS PROCESSING
+pp: I41000   pu: I41      cp: I41200     cu: I412       cd: SLAUGHTERHOUSES AND MEAT PROCESSING
+pp: I41200   pu: I412     cp: I41220     cu: I4122      cd: MEAT PROCESSING
+pp: I41200   pu: I412     cp: I41230     cu: I4123      cd: POULTRY SLAUGHTER AND PROCESSING
+pp: I41000   pu: I41      cp: I41300     cu: I413       cd: DAIRY PRODUCTS PROCESSING
+pp: I41000   pu: I41      cp: I41400     cu: I414       cd: FRUIT AND VEGETABLE PROCESSING
+pp: I41000   pu: I41      cp: I41500     cu: I415       cd: FISH PROCESSING
+pp: I41000   pu: I41      cp: I41600     cu: I416       cd: GRAIN MILLING AND PROCESSING
+pp: I41000   pu: I41      cp: I41800     cu: I418       cd: STARCH PROCESSING
+pp: I41000   pu: I41      cp: I41900     cu: I419       cd: BREAD AND BISCUIT MAKING
+pp: I41000   pu: I41      cp: I42000     cu: I42        cd: SUGAR AND SUGAR PRODUCTS
+pp: I41000   pu: I41      cp: I42100     cu: I421       cd: CONFECTIONERY
+pp: I41000   pu: I41      cp: I42210     cu: I4221      cd: ANIMAL FEED
+pp: I41000   pu: I41      cp: I42220     cu: I4222      cd: PET FOODS
+pp: I41000   pu: I41      cp: I42390     cu: I4239      cd: MISCELLANEOUS FOODS
+pp: I41000   pu: I41      cp: I42400     cu: I424       cd: SPIRITS DISTILLING
+pp: I41000   pu: I41      cp: I42600     cu: I426       cd: WINE PRODUCTION
+pp: I41000   pu: I41      cp: I42700     cu: I427       cd: BREWING
+pp: I41000   pu: I41      cp: I42800     cu: I428       cd: SOFT DRINKS
+pp: I41000   pu: I41      cp: I42900     cu: I429       cd: TOBACCO
+pp: I4       pu: I4       cp: I43000     cu: I43        cd: TEXTILE INDUSTRY
+pp: I4       pu: I4       cp: I44000     cu: I44        cd: LEATHER AND LEATHER GOODS
+pp: I4       pu: I4       cp: I45000     cu: I45        cd: FOOTWEAR AND CLOTHING
+pp: I45000   pu: I45      cp: I45100     cu: I451       cd: FOOTWEAR
+pp: I45000   pu: I45      cp: I45300     cu: I453       cd: CLOTHING
+pp: I45000   pu: I45      cp: I45500     cu: I455       cd: HOUSEHOLD TEXTILES PROCESSING
+pp: I45000   pu: I45      cp: I45600     cu: I456       cd: FUR GOODS
+pp: I4       pu: I4       cp: I46000     cu: I46        cd: TIMBER PROCESSING AND WOOD ARTICLES
+pp: I46000   pu: I46      cp: I46700     cu: I467       cd: WOODEN FURNITURE
+pp: I4       pu: I4       cp: I47000     cu: I47        cd: PAPER, PRINTING AND PUBLISHING
+pp: I47000   pu: I47      cp: I47100     cu: I471       cd: PAPER MANUFACTURING
+pp: I47100   pu: I471     cp: I47101     cu: I47101     cd: PULP
+pp: I47000   pu: I47      cp: I47200     cu: I472       cd: PAPER AND BOARD CONVERSION
+pp: I47000   pu: I47      cp: I47500     cu: I475       cd: PRINTING AND PUBLISHING
+pp: I47500   pu: I475     cp: I47510     cu: I4751      cd: NEWSPAPER PRINTING AND PUBLISHING
+pp: I47500   pu: I475     cp: I47520     cu: I4752      cd: PERIODICAL PRINTING AND PUBLISHING
+pp: I47520   pu: I4752    cp: I4752105   cu: I4752105   cd: TRADE JOURNAL PUBLISHING
+pp: I47500   pu: I475     cp: I47530     cu: I4753      cd: BOOK PRINTING AND PUBLISHING
+pp: I4       pu: I4       cp: I48000     cu: I48        cd: RUBBER AND PLASTICS PROCESSING
+pp: I48000   pu: I48      cp: I48100     cu: I481       cd: RUBBER PRODUCTS
+pp: I48100   pu: I481     cp: I48110     cu: I4811      cd: TYRE MANUFACTURING
+pp: I48000   pu: I48      cp: I48300     cu: I483       cd: PLASTICS PRODUCTS
+pp: I4       pu: I4       cp: I49100     cu: I491       cd: JEWELLERY
+pp: I4       pu: I4       cp: I49200     cu: I492       cd: MUSICAL INSTUMENTS
+pp: I4       pu: I4       cp: I49300     cu: I493       cd: PHOTOGRAPHIC PROCESSING
+pp: I4       pu: I4       cp: I49410     cu: I4941      cd: TOYS AND GAMES
+pp: I4       pu: I4       cp: I49420     cu: I4942      cd: SPORTING EQUIPMENT
+pp: I4       pu: I4       cp: I49540     cu: I4954      cd: STATIONERY, NOT PAPER
+pp: Root     pu: Root     cp: I5         cu: I5         cd: CONSTRUCTION
+pp: I5       pu: I5       cp: I50000     cu: I500       cd: GENERAL CONSTRUCTION AND DEMOLITION
+pp: I5       pu: I5       cp: I50100     cu: I501       cd: CONSTRUCTION OF BUILDINGS
+pp: I50100   pu: I501     cp: I5010022   cu: I5010022   cd: RESIDENTIAL CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010023   cu: I5010023   cd: OFFICE CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010024   cu: I5010024   cd: HOSPITAL CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010025   cu: I5010025   cd: FACTORY AND INDUSTRIAL CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010027   cu: I5010027   cd: RETAIL CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010028   cu: I5010028   cd: EDUCATIONAL FACILITY CONSTRUCTION
+pp: I50100   pu: I501     cp: I5010029   cu: I5010029   cd: BUILDING REFURBISHMENT
+pp: I50100   pu: I501     cp: I5010031   cu: I5010031   cd: LEISURE AND ENTERTAINMENTS CONSTRUCTION
+pp: I5       pu: I5       cp: I50200     cu: I502       cd: CIVIL ENGINEERING
+pp: I50200   pu: I502     cp: I5020002   cu: I5020002   cd: AIRPORT CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020006   cu: I5020006   cd: BRIDGE BUILDING
+pp: I50200   pu: I502     cp: I5020008   cu: I5020008   cd: CAR PARK CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020011   cu: I5020011   cd: DAM CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020017   cu: I5020017   cd: HARBOUR CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020022   cu: I5020022   cd: OIL PRODUCTION PLATFORM CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020028   cu: I5020028   cd: RAILWAY CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020030   cu: I5020030   cd: RESERVOIR CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020032   cu: I5020032   cd: SEWERAGE CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020039   cu: I5020039   cd: TUNNEL CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020041   cu: I5020041   cd: ROAD CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020043   cu: I5020043   cd: PIPELINE LAYING
+pp: I50200   pu: I502     cp: I5020044   cu: I5020044   cd: POWER STATION CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020045   cu: I5020045   cd: WATER TREATMENT PLANT CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020047   cu: I5020047   cd: LAND RECLAMATION
+pp: I50200   pu: I502     cp: I5020050   cu: I5020050   cd: SEA DEFENCE CONSTRUCTION
+pp: I50200   pu: I502     cp: I5020051   cu: I5020051   cd: CANAL OR WATERWAY CONSTRUCTION
+pp: I5       pu: I5       cp: I50300     cu: I503       cd: BUILDING INSTALLATIONS
+pp: I5       pu: I5       cp: I50400     cu: I504       cd: BUILDING COMPLETION
+pp: Root     pu: Root     cp: I6         cu: I6         cd: DISTRIBUTION, HOTELS AND CATERING
+pp: I6       pu: I6       cp: I61000     cu: I61        cd: WHOLESALE DISTRIBUTION
+pp: I6       pu: I6       cp: I63000     cu: I63        cd: PRODUCT TRADING AND BROKING
+pp: I6       pu: I6       cp: I64000     cu: I64        cd: RETAIL DISTRIBUTION
+pp: I64000   pu: I64      cp: I64100     cu: I641       cd: FOOD RETAILING
+pp: I64000   pu: I64      cp: I64200     cu: I642       cd: CIGARETTE, NEWSPAPER AND LIQUOR STORES
+pp: I64000   pu: I64      cp: I64300     cu: I643       cd: CHEMISTS AND DRUG STORES
+pp: I64000   pu: I64      cp: I64500     cu: I645       cd: CLOTHING STORES
+pp: I64000   pu: I64      cp: I64600     cu: I646       cd: SHOE STORES
+pp: I64000   pu: I64      cp: I64700     cu: I647       cd: HOUSEHOLD TEXTILES DISTRIBUTION
+pp: I64000   pu: I64      cp: I64800     cu: I648       cd: HOUSEHOLD GOODS AND HARDWARE
+pp: I64000   pu: I64      cp: I65100     cu: I651       cd: AUTOMOBILE DEALERS
+pp: I64000   pu: I64      cp: I65200     cu: I652       cd: FILLING STATIONS
+pp: I64000   pu: I64      cp: I65300     cu: I653       cd: BOOKS, STATIONERY RETAILING
+pp: I64000   pu: I64      cp: I65400     cu: I654       cd: SPECIALIST STORES
+pp: I65400   pu: I654     cp: I6540005   cu: I6540005   cd: OPTICIANS
+pp: I65400   pu: I654     cp: I6540011   cu: I6540011   cd: GARDEN CENTRES
+pp: I65400   pu: I654     cp: I6540030   cu: I6540030   cd: TOYS AND GAMES RETAILING
+pp: I64000   pu: I64      cp: I65600     cu: I656       cd: MIXED RETAIL
+pp: I65600   pu: I656     cp: I6560002   cu: I6560002   cd: DEPARTMENT STORE
+pp: I65600   pu: I656     cp: I6560003   cu: I6560003   cd: MAIL ORDER
+pp: I65600   pu: I656     cp: I6560011   cu: I6560011   cd: OUT OF TOWN RETAILING
+pp: I6       pu: I6       cp: I66000     cu: I66        cd: HOTELS AND CATERING
+pp: I66000   pu: I66      cp: I66100     cu: I661       cd: RESTAURANTS, CAFES AND FAST FOOD
+pp: I66000   pu: I66      cp: I66200     cu: I662       cd: BARS AND PUBLIC HOUSES
+pp: I66000   pu: I66      cp: I66500     cu: I665       cd: HOTELS AND ACCOMMODATION
+pp: I6       pu: I6       cp: I67000     cu: I67        cd: REPAIR OF VEHICLES AND CONSUMER GOODS
+pp: Root     pu: Root     cp: I7         cu: I7         cd: TRANSPORT AND COMMUNICATION
+pp: I7       pu: I7       cp: I71000     cu: I71        cd: RAILWAYS
+pp: I7       pu: I7       cp: I72101     cu: I72101     cd: URBAN MASS TRANSIT SYSTEMS
+pp: I7       pu: I7       cp: I72102     cu: I72102     cd: BUS AND COACH SERVICES
+pp: I7       pu: I7       cp: I72200     cu: I722       cd: TAXI SERVICES
+pp: I7       pu: I7       cp: I72300     cu: I723       cd: ROAD HAULAGE
+pp: I7       pu: I7       cp: I72603     cu: I72603     cd: INLAND WATER TRANSPORT
+pp: I7       pu: I7       cp: I74000     cu: I74        cd: SEA TRANSPORT
+pp: I7       pu: I7       cp: I75000     cu: I75        cd: AIR TRANSPORT
+pp: I75000   pu: I75      cp: I75100     cu: I751       cd: SPACE TRANSPORT
+pp: I7       pu: I7       cp: I76300     cu: I763       cd: PORTS AND SHIPPING SUPPORT SERVICES
+pp: I7       pu: I7       cp: I76400     cu: I764       cd: AIRPORTS AND AIR SUPPORT SERVICES
+pp: I7       pu: I7       cp: I77001     cu: I77001     cd: TRAVEL AGENTS
+pp: I7       pu: I7       cp: I77002     cu: I77002     cd: FREIGHT FORWARDING
+pp: I7       pu: I7       cp: I77003     cu: I77003     cd: STORAGE AND WAREHOUSING
+pp: I7       pu: I7       cp: I79010     cu: I7901      cd: POSTAL SERVICES
+pp: I7       pu: I7       cp: I79020     cu: I7902      cd: TELECOMMUNICATIONS
+pp: Root     pu: Root     cp: I8         cu: I8         cd: FINANCIAL AND BUSINESS SERVICES
+pp: I8       pu: I8       cp: I81000     cu: I81        cd: BANKING AND FINANCIAL SERVICES
+pp: I81000   pu: I81      cp: I81400     cu: I814       cd: BANKING SERVICES
+pp: I81400   pu: I814     cp: I81401     cu: I81401     cd: CENTRAL BANKING AUTHORITIES
+pp: I81400   pu: I814     cp: I81402     cu: I81402     cd: COMMERCIAL BANKING
+pp: I81400   pu: I814     cp: I81403     cu: I81403     cd: SAVINGS BANKS
+pp: I81000   pu: I81      cp: I81501     cu: I81501     cd: NON-BANK CREDIT INSTITUTIONS
+pp: I81501   pu: I81501   cp: I8150103   cu: I8150103   cd: MORTGAGE INSTITUTIONS
+pp: I81501   pu: I81501   cp: I8150106   cu: I8150106   cd: DEVELOPMENT BANKS OR FUNDS
+pp: I81501   pu: I81501   cp: I8150108   cu: I8150108   cd: CREDIT CARD ISSUERS
+pp: I81501   pu: I81501   cp: I8150110   cu: I8150110   cd: EXPORT-IMPORT FINANCING
+pp: I81000   pu: I81      cp: I81502     cu: I81502     cd: TRUSTS, SECURITIES INVESTMENT
+pp: I81502   pu: I81502   cp: I8150203   cu: I8150203   cd: VENTURE CAPITAL
+pp: I81502   pu: I81502   cp: I8150206   cu: I8150206   cd: INVESTMENT TRUSTS
+pp: I81502   pu: I81502   cp: I8150211   cu: I8150211   cd: UNIT TRUSTS AND MUTUAL FUNDS
+pp: I81502   pu: I81502   cp: I8150214   cu: I8150214   cd: PENSION FUNDS
+pp: I81502   pu: I81502   cp: I8150216   cu: I8150216   cd: PERSONAL EQUITY PLANS
+pp: I8       pu: I8       cp: I82000     cu: I82        cd: INSURANCE
+pp: I82000   pu: I82      cp: I82001     cu: I82001     cd: COMPOSITE INSURANCE
+pp: I82000   pu: I82      cp: I82002     cu: I82002     cd: LIFE INSURANCE
+pp: I82000   pu: I82      cp: I82003     cu: I82003     cd: NON-LIFE INSURANCE
+pp: I82003   pu: I82003   cp: I8200316   cu: I8200316   cd: MOTOR INSURANCE
+pp: I82003   pu: I82003   cp: I8200318   cu: I8200318   cd: REINSURANCE
+pp: I8       pu: I8       cp: I83100     cu: I831       cd: FINANCIAL SERVICES
+pp: I8       pu: I8       cp: I83200     cu: I832       cd: INSURANCE BROKERS AND AGENTS
+pp: I8       pu: I8       cp: I83400     cu: I834       cd: REAL ESTATE AGENTS
+pp: I8       pu: I8       cp: I83500     cu: I835       cd: LEGAL SERVICES
+pp: I8       pu: I8       cp: I83600     cu: I836       cd: ACCOUNTANCY AND AUDITING
+pp: I8       pu: I8       cp: I83700     cu: I837       cd: ARCHITECTS, SURVEYORS, ETC
+pp: I8       pu: I8       cp: I83800     cu: I838       cd: ADVERTISING AGENCIES
+pp: I8       pu: I8       cp: I83940     cu: I8394      cd: COMPUTER SERVICES
+pp: I83940   pu: I8394    cp: I8394007   cu: I8394007   cd: COMPUTER MAINTENANCE AND SUPPORT
+pp: I8       pu: I8       cp: I83951     cu: I83951     cd: MANAGEMENT CONSULTANTS
+pp: I8       pu: I8       cp: I83952     cu: I83952     cd: MARKET RESEARCH AND PUBLIC RELATIONS
+pp: I83952   pu: I83952   cp: I8395205   cu: I8395205   cd: PUBLIC RELATIONS CONSULTANTS
+pp: I8       pu: I8       cp: I83953     cu: I83953     cd: DOCUMENT COPYING AND DUPLICATING
+pp: I8       pu: I8       cp: I83954     cu: I83954     cd: BUSINESS AND MEDIA SERVICES
+pp: I83954   pu: I83954   cp: I8395416   cu: I8395416   cd: FINANCIAL AND CREDIT REPORTING
+pp: I83954   pu: I83954   cp: I8395419   cu: I8395419   cd: FREE-LANCE JOURNALISTS
+pp: I83954   pu: I83954   cp: I8395448   cu: I8395448   cd: SALES PROMOTION
+pp: I83954   pu: I83954   cp: I8395449   cu: I8395449   cd: DIRECT MARKETING
+pp: I83954   pu: I83954   cp: I8395451   cu: I8395451   cd: MEDIA PLANNING
+pp: I8       pu: I8       cp: I83960     cu: I8396      cd: DIVERSIFIED HOLDING COMPANIES
+pp: I8       pu: I8       cp: I84000     cu: I84        cd: RENTING AND LEASING EQUIPMENT
+pp: I84000   pu: I84      cp: I84100     cu: I841       cd: AGRICULTURAL EQUIPMENT HIRE
+pp: I84000   pu: I84      cp: I84200     cu: I842       cd: CONSTRUCTION EQUIPMENT HIRE
+pp: I84000   pu: I84      cp: I84300     cu: I843       cd: OFFICE EQUIPMENT HIRE
+pp: I84000   pu: I84      cp: I84600     cu: I846       cd: CONSUMER GOODS HIRE
+pp: I84000   pu: I84      cp: I84801     cu: I84801     cd: AUTOMOBILE HIRE
+pp: I84000   pu: I84      cp: I84802     cu: I84802     cd: LIGHT COMMERCIAL VEHICLE HIRE
+pp: I84000   pu: I84      cp: I84803     cu: I84803     cd: COMMERCIAL VEHICLE HIRE
+pp: I84000   pu: I84      cp: I84804     cu: I84804     cd: OTHER TRANSPORT EQUIPMENT HIRE
+pp: I84804   pu: I84804   cp: I8480401   cu: I8480401   cd: AIRCRAFT HIRING AND LEASING
+pp: I84804   pu: I84804   cp: I8480410   cu: I8480410   cd: SHIP HIRING AND LEASING
+pp: I8       pu: I8       cp: I85000     cu: I85        cd: REAL ESTATE DEALING
+pp: I85000   pu: I85      cp: I8500005   cu: I8500005   cd: INDUSTRIAL REAL ESTATE DEALING
+pp: I85000   pu: I85      cp: I8500011   cu: I8500011   cd: RESIDENTIAL REAL ESTATE DEALING
+pp: I85000   pu: I85      cp: I8500021   cu: I8500021   cd: COMMERCIAL REAL ESTATE DEALING
+pp: I85000   pu: I85      cp: I8500029   cu: I8500029   cd: RETAIL REAL ESTATE DEALING
+pp: I85000   pu: I85      cp: I8500031   cu: I8500031   cd: RESIDENTIAL REAL ESTATE BUYING, SELLING
+pp: Root     pu: Root     cp: I9         cu: I9         cd: SERVICES AND ENTERTAINMENT
+pp: I9       pu: I9       cp: I92110     cu: I9211      cd: REFUSE DISPOSAL
+pp: I9       pu: I9       cp: I92120     cu: I9212      cd: SEWAGE DISPOSAL
+pp: I9       pu: I9       cp: I92300     cu: I923       cd: CLEANING SERVICES
+pp: I9       pu: I9       cp: I95100     cu: I951       cd: HOSPITALS AND HEALTHCARE
+pp: I9       pu: I9       cp: I97100     cu: I971       cd: FILM PRODUCTION AND DISTRIBUTION
+pp: I9       pu: I9       cp: I97400     cu: I974       cd: TELEVISION AND RADIO
+pp: I97400   pu: I974     cp: I9741102   cu: I9741102   cd: TELEVISION BROADCASTING
+pp: I97400   pu: I974     cp: I9741105   cu: I9741105   cd: RADIO BROADCASTING
+pp: I97400   pu: I974     cp: I9741109   cu: I9741109   cd: CABLE TELEVISION
+pp: I97400   pu: I974     cp: I9741110   cu: I9741110   cd: SATELLITE TELEVISION
+pp: I97400   pu: I974     cp: I9741112   cu: I9741112   cd: TELEVISION PROGRAMME PRODUCTION
+pp: I97400   pu: I974     cp: I97412     cu: I97412     cd: THEATRES AND LIVE ENTERTAINMENT VENUES
+pp: I9       pu: I9       cp: I97911     cu: I97911     cd: SPORTING FACILITIES AND VENUES
+pp: I9       pu: I9       cp: I97912     cu: I97912     cd: BETTING AND GAMBLING
+pp: I9       pu: I9       cp: I98100     cu: I981       cd: LAUNDRIES AND DRY CLEANERS
